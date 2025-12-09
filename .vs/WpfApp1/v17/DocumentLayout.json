@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\10230915\\source\\repos\\WpfApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\10230915\\source\\repos\\NEWWWW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|c:\\users\\10230915\\source\\repos\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|c:\\users\\10230915\\source\\repos\\newwww\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|c:\\users\\10230915\\source\\repos\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|c:\\users\\10230915\\source\\repos\\newwww\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292F3C1D-350F-4A36-ADB5-A73DEE7AF2E2}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\10230915\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\10230915\\source\\repos\\NEWWWW\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\10230915\\source\\repos\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\10230915\\source\\repos\\NEWWWW\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-09T10:30:37.175Z",
@@ -40,14 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\10230915\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\10230915\\source\\repos\\NEWWWW\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\10230915\\source\\repos\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\10230915\\source\\repos\\NEWWWW\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T10:30:37.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T10:30:37.103Z"
             }
           ]
         }
